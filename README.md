@@ -7,9 +7,5 @@
 Customise the variable `*template-directory*` to the `template` directory of
 this repository.
 
-## License
-
-MIT
-
 ### _Spenser Truex <web@spensertruex.com>_
 
