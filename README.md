@@ -9,7 +9,7 @@ this repository.
 
 ## License
 
-GNU GPL v3
+MIT
 
 ### _Spenser Truex <web@spensertruex.com>_
 
